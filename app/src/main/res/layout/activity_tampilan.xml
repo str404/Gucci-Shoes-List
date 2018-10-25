@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TampilanActivity"
+    >
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerview_id"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </android.support.v7.widget.RecyclerView>
+
+    <Button
+        android:id="@+id/btn_tambah"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tambah"
+        android:onClick="button_onClick"
+        android:layout_marginTop="10dp"
+        android:layout_above="@+id/btn_logout"
+        android:background="@color/colorPrimary"
+        android:textColor="@color/colorWhite"/>
+
+    <Button
+        android:id="@+id/btn_logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:onClick="button_onClick"
+        android:layout_marginTop="10dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="@color/colorWhite"/>
+
+</RelativeLayout>
