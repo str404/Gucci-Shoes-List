@@ -3,8 +3,8 @@ Readme.md
 # Gucci Shoes List
 | Grup | 13 |
 | :---------------: | :---------------:|
-| Audi Martya | 04 |
-| Muhammad Satria Ramdhana Pratama | 18 |
+| Audi Martya Putri Winengku | 04 |
+| Muhammad Satria Ramadhana Pratama | 18 |
 
 ## Deskripsi
 Aplikasi "Gucci Shoes List" adalah aplikasi yang berisi tentang daftar-daftar sepatu bermerk gucci. Dimana untuk memasuki aplikasi ini harus login terlebih dahulu untuk bisa masuk ke halaman home yang berisi list-list sepatu. Daftar ini bisa di lihat detailnya, di tambah daftar baru, diedit isi dari daftar tersebut dan bisa dihapus juga .
