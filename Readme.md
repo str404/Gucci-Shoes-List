@@ -10,17 +10,17 @@ Readme.md
 Aplikasi "Gucci Shoes List" adalah aplikasi yang berisi tentang daftar-daftar sepatu bermerk gucci. Dimana untuk memasuki aplikasi ini harus login terlebih dahulu untuk bisa masuk ke halaman home yang berisi list-list sepatu. Daftar ini bisa di lihat detailnya, di tambah daftar baru, diedit isi dari daftar tersebut dan bisa dihapus juga .
 
 ## Screenshots
-![Login](https://raw.githubusercontent.com/str404/Gucci-Shoes-List/imageapp/login.png)
+![Login](https://github.com/str404/Gucci-Shoes-List/blob/master/imageapp/login.png)
 
-![Home/Tampilan Awal](https://raw.githubusercontent.com/str404/Gucci-Shoes-List/imageapp/home.png)
+![Home/Tampilan Awal](https://github.com/str404/Gucci-Shoes-List/blob/master/imageapp/home.png)
 
-![Detail](https://raw.githubusercontent.com/str404/Gucci-Shoes-List/imageapp/detail.png)
+![Detail](https://github.com/str404/Gucci-Shoes-List/blob/master/imageapp/detail.png)
 
-![Tambah/add](https://raw.githubusercontent.com/str404/Gucci-Shoes-List/imageapp/insert.png)
+![Tambah/add](https://github.com/str404/Gucci-Shoes-List/blob/master/imageapp/insert.png)
 
-![Edit/rubah](https://raw.githubusercontent.com/str404/Gucci-Shoes-List/imageapp/edit.png)
+![Edit/rubah](https://github.com/str404/Gucci-Shoes-List/blob/master/imageapp/edit.png)
 
-![OnClick](https://raw.githubusercontent.com/str404/Gucci-Shoes-List/imageapp/menu.png)
+![OnClick](https://github.com/str404/Gucci-Shoes-List/blob/master/imageapp/menu.png)
 
 ## Android OS dan Level
 min Sdk version yang digunakan adalah 25
