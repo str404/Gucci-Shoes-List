@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".TampilanActivity"
+    android:background="@drawable/gucci"
     >
 
     <android.support.v7.widget.RecyclerView
@@ -21,8 +22,8 @@
         android:onClick="button_onClick"
         android:layout_marginTop="10dp"
         android:layout_above="@+id/btn_logout"
-        android:background="@color/colorPrimary"
-        android:textColor="@color/colorWhite"/>
+        android:background="@color/colorGold"
+        android:textColor="@color/colorRed2"/>
 
     <Button
         android:id="@+id/btn_logout"
@@ -32,7 +33,7 @@
         android:onClick="button_onClick"
         android:layout_marginTop="10dp"
         android:layout_alignParentBottom="true"
-        android:background="@color/colorPrimaryDark"
-        android:textColor="@color/colorWhite"/>
+        android:background="@color/colorSilver"
+        android:textColor="@color/colorPrimary"/>
 
 </RelativeLayout>

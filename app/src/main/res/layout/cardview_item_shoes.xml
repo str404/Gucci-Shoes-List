@@ -7,7 +7,7 @@
     android:layout_height="215dp"
     xmlns:cardview="http://schemas.android.com/apk/res-auto"
     android:layout_margin="5dp"
-
+    cardview:cardBackgroundColor="@color/colorAccent"
     cardview:cardCornerRadius="4dp">
 
     <LinearLayout
